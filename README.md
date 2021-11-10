@@ -1,2 +1,2 @@
-# Education-Institute-Website-
-Complete Responsive Education Institute Website using HTML,CSS, JavaScript and PHP
+# Education-Institute-Website - Complete Responsive Education Institute Website using HTML,CSS, JavaScript and PHP
+In this repository you will learn to create a complete website design using HTML,CSS, JavaScript and PHP. It will be fully responsive website design and I will create 5 different website pages and we will link all pages through navigation menu. I will create Home Page, About Page, Course page, Single blog post page and Contact page with a working contact form.
